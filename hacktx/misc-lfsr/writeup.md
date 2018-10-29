@@ -1,0 +1,1 @@
+If particpants google the letters in the totle of the challenge, they should stumble upon Linear Feedback Shift Registers. Given the end result, the number of rounds, and the indices and function used to calculate the new bit, particpants can either work backwards by hand or with a script to find the original bitstring was `10110`

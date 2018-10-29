@@ -1,0 +1,1 @@
+At the end of the mp3 file, there is an odd beeping noise. Participants should notice that it is Morse code. THe file can be fed into an online service that converts audio Morse code to text, which reveals the flag `utflag b33p b00p b33p`

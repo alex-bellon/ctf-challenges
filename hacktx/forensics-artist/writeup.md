@@ -1,0 +1,1 @@
+After downloading the image, participants should realize it cannot be opened. If you look at a hexdump of the file, you will see that header is not `FF D8 FF` as it should be for JPEG files. Fix this header in a hex editor, and you should be able to open it and find the flag `utflag{gr4ph1c_d3s1gn_1s_my_p4ss1on}`
