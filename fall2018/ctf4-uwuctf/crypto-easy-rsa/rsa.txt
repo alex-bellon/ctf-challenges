@@ -1,0 +1,17 @@
+ciphertext = 2281e9e60e13af67c9dbdab25a95b52c0e19e38a887785978e83e4577e91b8390de7bf16a6a3f8273db208ffe14b973f3656c7fddc50a53c5bd0bbc72da3e175
+p = 78615231505791119778531679171954912116516772172405580837835038280745008520119
+q = 70057651003046527661678151293247823379678754249928504243640950278981509215109
+e = 65537
+
+ascii to int:
+    for char in string
+        text = text * 256 + ascii value of char
+    return text
+
+int to ascii:
+    while integer > 0
+        current = integer % 256
+        text = char with ascii value 'current' + text
+        integer -= current
+        integer = integer // 256
+    return text
