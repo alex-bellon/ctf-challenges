@@ -1,0 +1,2 @@
+fcrackzip -D -u -p dict nemo.zip
+cat not-flag.txt| xargs ./zwfp
