@@ -1,0 +1,33 @@
+[E]ncode or [D]ecode? Input plaintext:
+
+
+s = '㐾㐻㐌㐟㐀㐏㑖㐄㐓㐀㐴㐀㐄㐻㐉㐴㐷㐻㐾㐇㑎㑟'
+ss = '';for(let sss of s) ss += ''+(sss.charCodeAt(0) - 0x3400)+','
+Output = '62,59,12,31,0,15,86,4,19,0,52,0,4,59,9,52,55,59,62,7,78,95,'
+Where 0x3400 is the offset as mentioned in text
+< “Have you no remem㑟Offset: 0x3400asion?”
+I don't know how to proceed further :cry:
+There ?
+
+117 (75) diff: 㐾 hex 14 dec 20
+116 㐻
+102 㐌
+108 㐟
+97 㐀
+103 㐏
+123 㑖
+99 㐄
+104 㐓
+97 㐀
+114 㐴
+97 㐀
+99 㐄
+116 㐻
+101 㐉
+114 㐴
+115 㐷
+116 㐻
+117 㐾
+100 㐇
+121 㑎
+125 㑟
