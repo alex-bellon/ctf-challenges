@@ -88,3 +88,13 @@ A collection of all of the CTF challenges I have written for CTFs hosted by ISSS
 #### Security Day
 - **Le Monke [forensics]**: Binary Representation Of Letters As A Glyph
 - **ZIP [forensics]**: [GIFAR](https://en.wikipedia.org/wiki/Gifar)
+
+#### UTC CTF
+- **OTP [crypto]**: One Time Pad
+- **ASC-Key Art [forensics]**: SSH Identicon Reverse Engineering ([Drunken Bishop](http://www.dirk-loss.de/sshvis/drunken_bishop.pdf))
+- **Really Goob :B:icture [mic]**: Hex Colors to ASCII
+
+## Stats
+53 **Problems**
+33 **Unique Problems**
+5 **Problem Categories**
