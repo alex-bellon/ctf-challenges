@@ -4,7 +4,7 @@ A collection of all of the CTF challenges I have written for CTFs hosted by ISSS
 
 ## Table of Contents
 
-### 2018 Fall
+## Fall 2018
 #### CTF 1
 - **Acting Shifty [crypto]**: Vigenere Cipher
 - **Keep It Zipped [forensics]**: ZIP Password Cracking
@@ -28,7 +28,7 @@ A collection of all of the CTF challenges I have written for CTFs hosted by ISSS
 - **I Love It [forensics]**: Morse Code Audio
 - **LSFR [misc]**: [Linear Feedback Shift Register](https://en.wikipedia.org/wiki/Linear-feedback_shift_register)
 
-### 2019 Spring
+## Spring 2019
 #### CS361 Final
 - **Fence [crypto]**: Rail Fence Cipher
 - **Morse [crypto]**: Morse Code Audio
@@ -69,7 +69,7 @@ A collection of all of the CTF challenges I have written for CTFs hosted by ISSS
 - **RIP [forensics]**: ZIP Password Cracking
 - **DragonScim 2 [recon]**: Reconaissance
 
-### Fall 2019
+## Fall 2019
 #### CTF 1 (BepisCTF)
 - **Sbubby [crypto]**: Substitution Cipher
 - **Cat.jpg [forensics]**: EXIF Data/Strings
@@ -94,7 +94,13 @@ A collection of all of the CTF challenges I have written for CTFs hosted by ISSS
 - **ASC-Key Art [forensics]**: SSH Identicon Reverse Engineering ([Drunken Bishop](http://www.dirk-loss.de/sshvis/drunken_bishop.pdf))
 - **Really Goob :B:icture [mic]**: Hex Colors to ASCII
 
+## Spring 2020
+#### CTF 3 (ValentineCTF)
+- **qwerty [crypto]**: Keyboard Shift Cipher
+
 ## Stats
-53 **Problems**
-33 **Unique Problems**
+54 **Problems**
+
+34 **Unique Problems**
+
 5 **Problem Categories**
