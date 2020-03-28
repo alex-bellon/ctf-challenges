@@ -91,8 +91,8 @@ A collection of all of the CTF challenges I have written for CTFs hosted by ISSS
 - [**USB Capture [networking]**](/2019-fall/hacktxctf/networking-usb-capture): Recover Image From USB Packet Capture
 
 #### Security Day
-- [[**Le Monke [forensics]**](/2019-fall/security-day/forensics-le-monke): Binary Representation Of Letters As A Glyph
-- [[**ZIP [forensics]**](/2019-fall/security-day/forensics-zip): [GIFAR](https://en.wikipedia.org/wiki/Gifar)
+- [**Le Monke [forensics]**](/2019-fall/security-day/forensics-le-monke): Binary Representation Of Letters As A Glyph
+- [**ZIP [forensics]**](/2019-fall/security-day/forensics-zip): [GIFAR](https://en.wikipedia.org/wiki/Gifar)
 
 #### UTC CTF
 - [**OTP [crypto]**](/2019-fall/ctf1-bepisctf/crypto-sbubby): One Time Pad Key Reuse
