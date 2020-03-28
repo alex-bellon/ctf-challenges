@@ -2,7 +2,12 @@
 
 A collection of all of the CTF challenges I have written for CTFs hosted by ISSS, CTFs hosted by UTC, and the CTF final(s) for the CS361 class that I TA'd for.
 
-## Table of Contents
+### Stats
+- 60 **Problems**
+- 37 **Unique Problems**
+- 5 **Problem Categories**
+
+# Table of Contents
 
 ## Fall 2018
 #### CTF 1
@@ -105,8 +110,3 @@ A collection of all of the CTF challenges I have written for CTFs hosted by ISSS
 - [**The Legend of Hackerman, Pt. 1 [forensics]**](/2020-spring/utctf20/crypto-file-header): Wrong File Header
 - [**The Legend of Hackerman, Pt. 2 [forensics]**](/2020-spring/utctf20/crypto-docx): Hiding Files in `.docx`
 - [**Spectre [forensics]**](/2020-spring/utctf20/crypto-spectrogram): Spectrogram
-
-## Stats
-- 60 **Problems**
-- 37 **Unique Problems**
-- 5 **Problem Categories**
