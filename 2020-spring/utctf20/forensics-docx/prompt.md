@@ -1,3 +1,0 @@
-Ok, I've received another file, but it's just a Word Document? Hackerman said that he attached a picture of the flag, but I can't find it...
-
-_by balex_
