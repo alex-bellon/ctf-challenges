@@ -96,6 +96,7 @@ In reverse chronological order by semester
 ## Spring 2019
 <details>
   <summary>26 Problems</summary>
+  
   #### CS361 Final
   - [**Fence [crypto]**](/2019-spring/cs361-final/crypto-fence): Rail Fence Cipher
   - [**Morse [crypto]**](/2019-spring/cs361-final/crypto-morse): Morse Code Audio
@@ -140,6 +141,7 @@ In reverse chronological order by semester
 ## Fall 2018
 <details>
   <summary>13 Problems</summary>
+  
   #### CTF 1
   - [**Acting Shifty [crypto]**](/2018-fall/ctf1/crypto-acting-shifty): Vigenere Cipher
   - [**Keep It Zipped [forensics]**](/2018-fall/ctf1/forensics-keep-it-zipped): ZIP Password Cracking
