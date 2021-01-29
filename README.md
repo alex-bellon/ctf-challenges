@@ -59,9 +59,9 @@ In reverse chronological order by semester
   - [**One True Problem [crypto]**](/2020-spring/utctf/crypto-otp): One Time Pad Key Reuse
   - [**Cube Crypto [crypto]**](/2020-spring/utctf/crypto-rubik-non-commutative): [Anshel-Anshel-Goldfeld Encryption](https://en.wikipedia.org/wiki/Anshel%E2%80%93Anshel%E2%80%93Goldfeld_key_exchange) using the [Rubik's Cube Group](https://en.wikipedia.org/wiki/Rubik%27s_Cube_group)
   - [**Curveball [crypto]**](/2020-spring/utctf/crypto-shamir-secret-sharing): Shamir Secret Sharing
-  - [**The Legend of Hackerman, Pt. 1 [forensics]**](/2020-spring/utctf/crypto-file-header): Wrong File Header
-  - [**The Legend of Hackerman, Pt. 2 [forensics]**](/2020-spring/utctf/crypto-docx): Hiding Files in `.docx`
-  - [**Spectre [forensics]**](/2020-spring/utctf/crypto-spectrogram): Spectrogram
+  - [**The Legend of Hackerman, Pt. 1 [forensics]**](/2020-spring/utctf/forensics-file-header): Wrong File Header
+  - [**The Legend of Hackerman, Pt. 2 [forensics]**](/2020-spring/utctf/forensics-docx): Hiding Files in `.docx`
+  - [**Spectre [forensics]**](/2020-spring/utctf/forensics-spectrogram): Spectrogram
 </details>
 
 ## Fall 2019
