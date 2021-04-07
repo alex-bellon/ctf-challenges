@@ -88,9 +88,9 @@ In reverse chronological order by semester
   - [**ZIP [forensics]**](/2019-fall/security-day/forensics-zip): [GIFAR](https://en.wikipedia.org/wiki/Gifar)
 
   #### UTC CTF 2019
-  - [**OTP [crypto]**](/2019-fall/ctf1-bepisctf/crypto-sbubby): One Time Pad Key Reuse
-  - [**ASC-Key Art [forensics]**](/2020-spring/ctf3-valentinectf/crypto-keyboard-shift): SSH Identicon Reverse Engineering ([Drunken Bishop](http://www.dirk-loss.de/sshvis/drunken_bishop.pdf))
-  - [**Really Good :B:icture [mic]**](/2020-spring/ctf3-valentinectf/crypto-keyboard-shift): Hex Colors to ASCII
+  - [**OTP [crypto]**](/2019-fall/utc-ctf/crypto-otp): One Time Pad Key Reuse
+  - [**ASC-Key Art [forensics]**](/2019-fall/utc-ctf/forensics-ssh-ascii-art): SSH Identicon Reverse Engineering ([Drunken Bishop](http://www.dirk-loss.de/sshvis/drunken_bishop.pdf))
+  - [**Really Good :B:icture [mic]**](/2019-fall/utc-ctf/misc-hex-colors): Hex Colors to ASCII
 </details>
 
 ## Spring 2019
