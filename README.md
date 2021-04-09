@@ -90,7 +90,7 @@ In reverse chronological order by semester
   #### UTC CTF 2019
   - [**OTP [crypto]**](/2019-fall/utc-ctf/crypto-otp): One Time Pad Key Reuse
   - [**ASC-Key Art [forensics]**](/2019-fall/utc-ctf/forensics-ssh-ascii-art): SSH Identicon Reverse Engineering ([Drunken Bishop](http://www.dirk-loss.de/sshvis/drunken_bishop.pdf))
-  - [**Really Good :B:icture [mic]**](/2019-fall/utc-ctf/misc-hex-colors): Hex Colors to ASCII
+  - [**Really Good :B:icture [misc]**](/2019-fall/utc-ctf/misc-hex-colors): Hex Colors to ASCII
 </details>
 
 ## Spring 2019
