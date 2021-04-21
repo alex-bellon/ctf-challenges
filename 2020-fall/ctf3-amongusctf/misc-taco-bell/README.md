@@ -1,4 +1,4 @@
-# Click Clack Moo
+# Live Mas
 * **Event:** AmongUsCTF
 * **Problem Type:** Misc
 * **Point Value / Difficulty:** Medium
