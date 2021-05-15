@@ -1,0 +1,24 @@
+version: "3.9"
+services:
+  crypto-quantum-money:
+    stdin_open: true
+    tty: true
+    build:
+      context: .
+      args:
+        USER: "quantum-money"
+    ports:
+      - "1234:9000"
+    read_only: true
+    environment: 
+      - "PYTHONUNBUFFERED:1"
+    deploy:
+      resources:
+        limits:
+          cpus: 0.2
+          memory: 512M
+        reservations:
+          memory: 64M
+      restart_policy:
+        condition: on-failure
+        max_attempts: 5

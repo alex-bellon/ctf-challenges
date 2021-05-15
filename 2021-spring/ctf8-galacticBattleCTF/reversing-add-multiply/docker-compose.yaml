@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  rev-math:
+    build:
+      context: .
+      args: 
+        FLAG: "utflag{now_youre_a_reversing_legend}"
+        USER: "rev-math"
+    deploy:
+      replicas: 1
+    ports:
+      - "8008:8008"
+    read_only: true

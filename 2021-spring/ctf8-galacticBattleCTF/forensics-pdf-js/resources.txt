@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/29342542/how-can-i-extract-a-javascript-from-a-pdf-file-with-a-command-line-tool
+https://gist.github.com/rms1000watt/177970ce9fb0970e765700f12695231d

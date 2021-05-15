@@ -1,0 +1,9 @@
+p = 69691
+g = 1001
+a = 12552
+b = 7919
+
+A public = 17016
+B public = 47643
+
+Shared secret = 53919

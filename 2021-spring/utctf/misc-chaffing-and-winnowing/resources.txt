@@ -1,0 +1,4 @@
+- https://people.csail.mit.edu/rivest/Chaffing.txt
+  - https://people.csail.mit.edu/rivest/pubs/Riv98a.pdf
+- https://www.sans.org/reading-room/whitepapers/vpns/review-chaffing-winnowing-876
+- https://eprint.iacr.org/2000/010.pdf

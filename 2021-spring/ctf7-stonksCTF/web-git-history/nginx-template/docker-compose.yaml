@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  web-name:
+    build:
+      context: .
+      args: 
+        FLAG: "utflag{gotta_git_that_flag}"
+    deploy:
+      replicas: 1
+    ports:
+      - "PORT:2000"

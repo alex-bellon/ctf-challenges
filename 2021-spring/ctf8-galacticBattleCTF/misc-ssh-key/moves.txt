@@ -1,0 +1,6 @@
+0 up left
+1 up right
+2 down left
+3 down right
+
+3322333311000111

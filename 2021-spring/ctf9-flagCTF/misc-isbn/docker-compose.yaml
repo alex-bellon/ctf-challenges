@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  misc-luhn:
+    build:
+      context: .
+      args: 
+        USER: "isbn"
+    deploy:
+      replicas: 1
+    ports:
+      - "1234:9000"
+    read_only: true
