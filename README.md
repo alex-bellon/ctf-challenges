@@ -3,48 +3,103 @@
 A collection of all of the CTF challenges I have written for CTFs hosted by ISSS, CTFs hosted by UTC, and the CTF final(s) for the CS361 class that I TA'd for.
 
 ### Stats
-- 82 **Problems**
-- 44 **Unique Problems**
-- 5 **Problem Categories**
+- 119 **Problems**
+- 61 **Unique Problems**
+- 6 **Problem Categories**
 
 # Table of Contents
 In reverse chronological order by semester
+
+## Spring 2021
+<details>
+  <summary>37 Problems</summary>
+
+  #### CTF 6 (RobopocalypseCTF)
+  - [**DH-9000 [crypto]**](/2021-spring/ctf6-robopocalypseCTF/crypto-diffie-hellman): Diffie-Hellman Brute Force
+  - [**Mightier Than The XORd [crypto]**](/2021-spring/ctf6-robopocalypseCTF/crypto-repeated-xor): Repeating XOR
+  - [**Covert Communication [forensics]**](/2021-spring/ctf6-robopocalypseCTF/forensics-image-diff): Image Diff
+  - [**Documented [forensics]**](/2021-spring/ctf6-robopocalypseCTF/forensics-word-doc): Hiding Files in `.docx`
+
+  #### CTF 7 (StonksCTF)
+  - [**Sandwiched [forensics]**](/2021-spring/ctf7-stonksCTF/forensics-embedded-file): File Carving
+  - [**Song of Flags [forensics]**](/2021-spring/ctf7-stonksCTF/forensics-musical-cryptogram): Musical Cryptogram
+  - [**Unpleasant or Contemptable Person [web]**](/2021-spring/ctf7-stonksCTF/web-git-history): Exposed `.git` Directory
+
+  #### CTF 8 (GalacticBattleCTF)
+  - [**Secret Transmission [crypto]**](/2021-spring/ctf8-galacticBattleCTF/crypto-affine): Affine Cipher
+  - [**File Stowaway [forensics]**](/2021-spring/ctf8-galacticBattleCTF/forensics-pdf-js): JavaScript in PDF
+  - [**Following Protocol [misc]**](/2021-spring/ctf8-galacticBattleCTF/misc-ports): Port Numbers
+  - [**Key Finding [misc]**](/2021-spring/ctf8-galacticBattleCTF/misc-ssh-key): SSH Identicon Reverse Engineering ([Drunken Bishop](http://www.dirk-loss.de/sshvis/drunken_bishop.pdf))
+  - [**Quick Maths [reversing]**](/2021-spring/ctf8-galacticBattleCTF/reversing-add-multiply): Addition and Subtraction Reversing
+
+  #### CTF 9 (FlagCTF)
+  - [**Inconspicuous Image [forensics]**](/2021-spring/ctf9-flagCTF/forensics-gifar): [GIFAR](https://en.wikipedia.org/wiki/Gifar)
+  - [**Bookkeeping [misc]**](/2021-spring/ctf9-flagCTF/misc-isbn): ISBN Check Digit Automation
+
+  #### UTCTF 2021
+  - [**Sizzling Bacon [beginner]**](/2021-spring/utctf/beginner-baconian-cipher): Baconian Cipher
+  - [**Cipher Gauntlet [beginner]**](/2021-spring/utctf/beginner-cipher-gauntlet): Binary, Base64, Caesar Cipher
+  - [**Run-ELF [beginner]**](/2021-spring/utctf/beginner-run-binary): Run Linux Binary
+  - [**Strings [beginner]**](/2021-spring/utctf/beginner-strings): Strings on a Binary
+  - [**HTML [beginner]**](/2021-spring/utctf/beginner-view-source): View Source on Website
+  - [**Magic Bytes [beginner]**](/2021-spring/utctf/beginner-wrong-file-type): Wrong File Header
+  - [**Small P Problems [crypto]**](/2021-spring/utctf/crypto-diffie-hellman-brute-force): Diffie-Hellman Brute Force
+  - [**Wiesner's Quantum Bank [crypto]**](/2021-spring/utctf/crypto-quantum-money): Elitzur-Vaidman Bomb Attack on Wiesner's Quantum Money Scheme
+  - [**SHIFT [forensics]**](/2021-spring/utctf/forensics-shifted-image): Image with Shifted Pixels
+  - [**Farmers Only [misc]**](/2021-spring/utctf/misc-chaffing-and-winnowing): Chaffing and Winnowing
+
+  #### ForeverCTF
+  - [**All Your Base Are Belong To Us [crypto]**](/2021-spring/foreverctf/crypto-base64): Base64
+  - [**Zeros and Ones [crypto]**](/2021-spring/foreverctf/crypto-binary): Binary
+  - [**Bookworm [crypto]**](/2021-spring/foreverctf/crypto-book-cipher): Book Cipher (Chapter, Paragraph, Word, Letter)
+  - [**All Greek To Me [crypto]**](/2021-spring/foreverctf/crypto-caesar-cipher): Caesar Cipher
+  - [**DEADBEEF [crypto]**](/2021-spring/foreverctf/crypto-hex): Hexadecimal
+  - [**OTP [crypto]**](/2021-spring/foreverctf/crypto-one-time-pad): One Time Pad Key Reuse
+  - [**Met A Data [forensics]**](/2021-spring/foreverctf/forensics-exif-data): EXIF Data/Strings
+  - [**Magic [forensics]**](/2021-spring/foreverctf/forensics-file-signature): Wrong File Header
+  - [**Redacted [forensics]**](/2021-spring/foreverctf/forensics-pdf-censorship): Redacted PDF
+  - [**Zipped [forensics]**](/2021-spring/foreverctf/forensics-zip-cracking): ZIP Cracking
+  - [**Uncharted [misc]**](/2021-spring/foreverctf/misc-map): Plotting Coordinates on a Map
+  - [**Nothing In Between [misc]**](/2021-spring/foreverctf/misc-zero-width-characters): Zero Width Characters (as binary)
+  - [**Intro to CyberChef [tools]**](/2021-spring/foreverctf/tools-cyberchef): How to use CyberChef
+
+</details>
 
 ## Fall 2020
 <details>
   <summary>22 Problems</summary>
 
   #### CTF 1 (IntroCTF)
-  - [The Die Has Been Cast [crypto]](/2020-fall/ctf1-introctf/crypto-caesar-cipher): Caesar Cipher
-  - [Substitution [crypto]](/2020-fall/ctf1-introctf/crypto-custom-sub-cipher): Emoji Substitution Cipher
-  - [Redacted [forensics]](/2020-fall/ctf1-introctf/forensics-redacted): Redacted PDF
-  - [Corrupted [forensics]](/2020-fall/ctf1-introctf/forensics-wrong-file-header): Wrong File Header
+  - [**The Die Has Been Cast [crypto]**](/2020-fall/ctf1-introctf/crypto-caesar-cipher): Caesar Cipher
+  - [**Substitution [crypto]**](/2020-fall/ctf1-introctf/crypto-custom-sub-cipher): Emoji Substitution Cipher
+  - [**Redacted [forensics]**](/2020-fall/ctf1-introctf/forensics-redacted): Redacted PDF
+  - [**Corrupted [forensics]**](/2020-fall/ctf1-introctf/forensics-wrong-file-header): Wrong File Header
 
   #### CTF 2 (TetrisCTF)
-  - [\#1 Opener [crypto]](/2020-fall/ctf2-tetrisctf/crypto-pigpen): Pigpen Cipher
-  - [Wumbo [forensics]](/2020-fall/ctf2-tetrisctf/forensics-pdf): PDF CropBox
-  - [Orange Ricky [forensics]](/2020-fall/ctf2-tetrisctf/forensics-steg): Image Steganography
-  - [Garbage [forensics]](/2020-fall/ctf2-tetrisctf/forensics-strings): EXIF Data/Strings
+  - [**\#1 Opener [crypto]**](/2020-fall/ctf2-tetrisctf/crypto-pigpen): Pigpen Cipher
+  - [**Wumbo [forensics]**](/2020-fall/ctf2-tetrisctf/forensics-pdf): PDF CropBox
+  - [**Orange Ricky [forensics]**](/2020-fall/ctf2-tetrisctf/forensics-steg): Image Steganography
+  - [**Garbage [forensics]**](/2020-fall/ctf2-tetrisctf/forensics-strings): EXIF Data/Strings
 
   #### CTF 3 (AmongUsCTF)
-  - [Sharing Secrets [crypto]](/2020-fall/ctf3-amongusctf/crypto-shamir-secret-sharing): Shamir's Secret Sharing
-  - [Vinegar Cipher [crypto]](/2020-fall/ctf3-amongusctf/crypto-vigenere): Vigenere Cipher
-  - [Click Clack Moo [forensics]](/2020-fall/ctf3-amongusctf/forensics-keyboard): JavaScript Keyboard Codes
-  - [Live Más [misc]](/2020-fall/ctf3-amongusctf/misc-taco-bell): [Luhn Algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm)
+  - [**Sharing Secrets [crypto]**](/2020-fall/ctf3-amongusctf/crypto-shamir-secret-sharing): Shamir's Secret Sharing
+  - [**Vinegar Cipher [crypto]**](/2020-fall/ctf3-amongusctf/crypto-vigenere): Vigenere Cipher
+  - [**Click Clack Moo [forensics]**](/2020-fall/ctf3-amongusctf/forensics-keyboard): JavaScript Keyboard Codes
+  - [**Live Más [misc]**](/2020-fall/ctf3-amongusctf/misc-taco-bell): [Luhn Algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm)
 
   #### CTF 4 (SpookyCTF)
-  - [Dahdit [crypto]](/2020-fall/ctf4-spookyctf/crypto-morse): Morse Code
-  - [Pontifex [crypto]](/2020-fall/ctf4-spookyctf/crypto-solitaire): [Solitaire Cipher](https://en.wikipedia.org/wiki/Solitaire_%28cipher%29)
-  - [Skeleton Wars [forensics]](/2020-fall/ctf4-spookyctf/forensics-alpha-channel): Hidden Alpha Channel
-  - [Unzipped [forensics]](/2020-fall/ctf4-spookyctf/forensics-zip-cracking): ZIP Cracking
-  - [Poltergeist [misc]](/2020-fall/ctf4-spookyctf/misc-whitespace): [Whitespace](https://en.wikipedia.org/wiki/Whitespace_%28programming_language%29)
+  - [**Dahdit [crypto]**](/2020-fall/ctf4-spookyctf/crypto-morse): Morse Code
+  - [**Pontifex [crypto]**](/2020-fall/ctf4-spookyctf/crypto-solitaire): [Solitaire Cipher](https://en.wikipedia.org/wiki/Solitaire_%28cipher%29)
+  - [**Skeleton Wars [forensics]**](/2020-fall/ctf4-spookyctf/forensics-alpha-channel): Hidden Alpha Channel
+  - [**Unzipped [forensics]**](/2020-fall/ctf4-spookyctf/forensics-zip-cracking): ZIP Cracking
+  - [**Poltergeist [misc]**](/2020-fall/ctf4-spookyctf/misc-whitespace): [Whitespace](https://en.wikipedia.org/wiki/Whitespace_%28programming_language%29)
 
   #### Security Day 2020
-  - [ZigZag [crypto]](/2020-fall/security-day/crypto-railfence): Railfence Cipher
-  - [Pontifex [crypto]](/2020-fall/security-day/crypto-solitaire): [Solitaire Cipher](https://en.wikipedia.org/wiki/Solitaire_%28cipher%29)
-  - [True Hacker [forensics]](/2020-fall/security-day/forensics-jpeg-comment): EXIF Data/Strings
-  - [SHIFT [forensics]](/2020-fall/security-day/forensics-shifted-image): Image with Shifted Pixels
-  - [This is the flag [misc]](/2020-fall/security-day/misc-zero-width-character): Adding Extra Zero Width Characters
+  - [**ZigZag [crypto]**](/2020-fall/security-day/crypto-railfence): Railfence Cipher
+  - [**Pontifex [crypto]**](/2020-fall/security-day/crypto-solitaire): [Solitaire Cipher](https://en.wikipedia.org/wiki/Solitaire_%28cipher%29)
+  - [**True Hacker [forensics]**](/2020-fall/security-day/forensics-jpeg-comment): EXIF Data/Strings
+  - [**SHIFT [forensics]**](/2020-fall/security-day/forensics-shifted-image): Image with Shifted Pixels
+  - [**This is the flag [misc]**](/2020-fall/security-day/misc-zero-width-character): Adding Extra Zero Width Characters
 
 </details>
 
@@ -96,7 +151,7 @@ In reverse chronological order by semester
 ## Spring 2019
 <details>
   <summary>26 Problems</summary>
-  
+
   #### CS361 Final
   - [**Fence [crypto]**](/2019-spring/cs361-final/crypto-fence): Rail Fence Cipher
   - [**Morse [crypto]**](/2019-spring/cs361-final/crypto-morse): Morse Code Audio
@@ -141,7 +196,7 @@ In reverse chronological order by semester
 ## Fall 2018
 <details>
   <summary>13 Problems</summary>
-  
+
   #### CTF 1
   - [**Acting Shifty [crypto]**](/2018-fall/ctf1/crypto-acting-shifty): Vigenere Cipher
   - [**Keep It Zipped [forensics]**](/2018-fall/ctf1/forensics-keep-it-zipped): ZIP Password Cracking
